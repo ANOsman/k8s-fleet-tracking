@@ -1,7 +1,6 @@
 # k8s Fleetman
 
-**Rebuilt in 2023 to support native ARM64 containers**
+**Rebuilt in 2023**
 
-A new version of "Fleetman", my thrilling example microservice architecture.
+A new version of "fleetman-tracking", my thrilling example microservice architecture.
 
-Full course available at https://www.udemy.com/user/richard-chesterwood/
